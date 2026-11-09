@@ -1,4 +1,14 @@
 {
-  "ultima_version": "1.0.0",
-  "url_descarga": "https://github.com/FredTechLab/fredtech-updates/raw/main/Actualizador.rar"
+    "ultima_version":  "2.0.0",
+    "url_descarga":  "https://github.com/FredTechLab/fredtech-updates/raw/main/FredTechLab_2.0.0.zip",
+    "fecha":  "2026-11-09",
+    "notas":  [
+                  "Nuevo diseno completo y modo oscuro",
+                  "Talleres de motos, linea blanca, computacion y celulares",
+                  "Recepcion con checklist, accesorios y fotos",
+                  "Tablero Kanban, agenda, inventario, ventas, caja y reportes",
+                  "Registro de cuentas y actualizaciones automaticas"
+              ],
+    "obligatoria":  false,
+    "sha256":  "b5d5e017173798ff8e47a600a4924d308b7a7716acc66260ea5e5a5988bd8b9f"
 }
