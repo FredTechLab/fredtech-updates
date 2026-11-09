@@ -1,6 +1,6 @@
 {
-    "ultima_version":  "2.0.1",
-    "url_descarga":  "https://github.com/FredTechLab/fredtech-updates/raw/main/FredTechLab_2.0.1.zip",
+    "ultima_version":  "2.0.0",
+    "url_descarga":  "https://github.com/FredTechLab/fredtech-updates/raw/main/FredTechLab_2.0.0.zip",
     "fecha":  "2026-11-09",
     "notas":  [
                   "Las actualizaciones se detectan al instante (sin esperar la cache de GitHub)",
