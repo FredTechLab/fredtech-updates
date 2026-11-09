@@ -1,11 +1,13 @@
 {
-    "ultima_version":  "2.0.0",
-    "url_descarga":  "https://github.com/FredTechLab/fredtech-updates/raw/main/FredTechLab_2.0.0.zip",
+    "ultima_version":  "2.2.0",
+    "url_descarga":  "https://github.com/FredTechLab/fredtech-updates/raw/main/FredTechLab_2.2.0.zip",
     "fecha":  "2026-11-09",
     "notas":  [
-                  "Las actualizaciones se detectan al instante (sin esperar la cache de GitHub)",
-                  "Mejoras de estabilidad"
+                  "Firma digital del cliente en pantalla (recepcion y entrega) incluida en el PDF",
+                  "Trabajo en red: varias PCs con una sola base de datos",
+                  "Sistema de licencias con periodo de prueba",
+                  "Mejoras y correcciones"
               ],
     "obligatoria":  false,
-    "sha256":  "ccfe624c69203642a9187f80564a870696839a51c8ee26241213dd691651a142"
+    "sha256":  "eb6fcf2f579b03e29cb9247060260d610aae0aaf3a900e305759c9ee8166fd56"
 }
