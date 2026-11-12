@@ -1,13 +1,11 @@
 {
-    "ultima_version":  "2.2.0",
-    "url_descarga":  "https://github.com/FredTechLab/fredtech-updates/raw/main/FredTechLab_2.2.0.zip",
-    "fecha":  "2026-11-09",
+    "ultima_version":  "2.3.1",
+    "url_descarga":  "https://github.com/FredTechLab/fredtech-updates/raw/main/FredTechLab_2.3.1.zip",
+    "fecha":  "2026-11-11",
     "notas":  [
-                  "Firma digital del cliente en pantalla (recepcion y entrega) incluida en el PDF",
-                  "Trabajo en red: varias PCs con una sola base de datos",
-                  "Sistema de licencias con periodo de prueba",
-                  "Mejoras y correcciones"
+                  "El botón Copiar de la pantalla de licencia ahora copia solo el código de instalación",
+                  "Instalador corregido"
               ],
     "obligatoria":  false,
-    "sha256":  "eb6fcf2f579b03e29cb9247060260d610aae0aaf3a900e305759c9ee8166fd56"
+    "sha256":  "2f777aa5c2660a058271520adaff16aa5a09c2a32a3611b85cc475514f280439"
 }
