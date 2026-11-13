@@ -1,11 +1,14 @@
 {
-    "ultima_version":  "2.3.1",
-    "url_descarga":  "https://github.com/FredTechLab/fredtech-updates/raw/main/FredTechLab_2.3.1.zip",
-    "fecha":  "2026-11-11",
+    "ultima_version":  "2.4.0",
+    "url_descarga":  "https://github.com/FredTechLab/fredtech-updates/raw/main/FredTechLab_2.4.0.zip",
+    "fecha":  "2026-11-12",
     "notas":  [
-                  "El botón Copiar de la pantalla de licencia ahora copia solo el código de instalación",
-                  "Instalador corregido"
+                  "Código QR en la orden y el comprobante: el cliente ve el estado de su reparación desde el celular",
+                  "Etiqueta con código de barras para pegar en el equipo (50x30, 60x40 y 100x50 mm) y apertura de la orden con el lector",
+                  "Recordatorios por WhatsApp a clientes que no retiran su equipo",
+                  "Los avisos de WhatsApp incluyen el enlace de consulta",
+                  "Logo nítido en el inicio de sesión y el menú"
               ],
     "obligatoria":  false,
-    "sha256":  "2f777aa5c2660a058271520adaff16aa5a09c2a32a3611b85cc475514f280439"
+    "sha256":  "857d24f05853ac2f97e61e21061ad5a95cbd2c2a23c6d3cebbd784e5c561a3c7"
 }
